@@ -36,6 +36,7 @@ Moderately priced zip codes included:
 - 98122, 98107, 98144 (mixed residential and commercial areas).
 
 ![Average Price Charged per Zipcode](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Price%20per%20zipcode.PNG?raw=true)
+
 This insight suggests that central locations or those closer to major attractions can command higher prices, but there are also opportunities in less competitive areas for budget-conscious travelers.
 
  Count of Listings Based on Bedrooms
@@ -46,6 +47,8 @@ The distribution of listings based on the number of bedrooms showed a clear pref
 - 4-bedroom: 55 listings
 - 5-bedroom: 20 listings
 - 6-bedroom: 5 listings
+
+![Count of Listings Based on Bedrooms](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Count%20per%20listing.PNG?raw=true)
 
 This indicates that there is a greater supply of smaller properties, and competition might be stiffer in this segment, while larger properties (4+ bedrooms) could offer unique opportunities with lower competition.
 
