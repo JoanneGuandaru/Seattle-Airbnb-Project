@@ -67,6 +67,8 @@ Revenues fluctuate across the year, with some months showing stronger performanc
 - November: $1.943M - $1.979M
 - December: $2.004M - $2.110M
 
+![Revenues Based on Time of Year](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Revenues.PNG?raw=true)
+
 Revenue peaks during the summer months (June-August), and December also experiences high revenue, likely due to the holiday season. This indicates strong seasonality in the Seattle Airbnb market, with higher demand during peak travel times.
 
  Impact of Property Type on Occupancy
