@@ -21,7 +21,7 @@ The analysis revealed that properties with more bedrooms command higher average 
 - 2-bedroom properties: $200.7
 - 1-bedroom properties: $102.4
 
- ![Average Price Per Bedroom Visualization on Tableau] https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Avg%20Price.PNG?raw=true
+ ![Average Price Per Bedroom Visualization on Tableau](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Avg%20Price.PNG?raw=true)
 
 This shows a clear trend where larger properties, particularly those with 5 or 6 bedrooms, have significantly higher average nightly rates compared to smaller properties, which may appeal to families or groups.
 
