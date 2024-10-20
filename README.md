@@ -35,6 +35,7 @@ In contrast, the lowest prices were found in zip codes:
 Moderately priced zip codes included:
 - 98122, 98107, 98144 (mixed residential and commercial areas).
 
+![Average Price Charged per Zipcode](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/Price%20per%20zipcode.PNG?raw=true)
 This insight suggests that central locations or those closer to major attractions can command higher prices, but there are also opportunities in less competitive areas for budget-conscious travelers.
 
  Count of Listings Based on Bedrooms
