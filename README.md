@@ -74,6 +74,8 @@ Revenue peaks during the summer months (June-August), and December also experien
  Impact of Property Type on Occupancy
 The type of property also played a role in occupancy rates, though this analysis needs to be cross-referenced with deeper insights. From similar markets, larger homes and unique properties (such as luxury homes or properties with distinct architectural styles) often have higher occupancy during peak seasons, while smaller or more generic apartments may see steadier but lower occupancy year-round.
 
+![Impact of Property type on Occupancy](https://github.com/JoanneGuandaru/Seattle-Airbnb-Project/blob/main/impact.PNG?raw=true)
+
  Recommendations
 1. Focus on Larger Properties: Given that 5- and 6-bedroom properties command the highest prices but have the lowest number of listings, investing in larger properties could yield higher profits due to less competition and premium pricing.
 2. Target High-Demand Zip Codes: Zip codes 98101, 98109, and 98104 should be prioritized for new Airbnb investments as they have the highest average nightly rates and are likely closer to tourist attractions and business hubs.
@@ -81,4 +83,6 @@ The type of property also played a role in occupancy rates, though this analysis
 4. Explore Niche Property Types: Unique properties or luxury homes could capture higher occupancy rates and pricing, especially during high-demand months. Emphasizing distinct offerings could help in differentiating from the large supply of smaller, standard listings.
 
  Dashboard
-The Tableau dashboard created for this analysis provides detailed visualizations of average price trends by bedroom and zip code, listing distributions, and revenue patterns across the year. The dashboard allows users to filter by property type, number of bedrooms, and location for a more granular analysis.
+The Tableau dashboard created for this analysis provides detailed visualizations of average price trends by bedroom and zip code, listing distributions, and revenue patterns across the year. Link here 
+
+[View Seattle Airbnb Tableau Dashboard](https://public.tableau.com/app/profile/joanne.guandaru/viz/SeattleAirbnbProject_17257139645370/Dashboard1)
