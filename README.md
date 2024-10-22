@@ -2,6 +2,7 @@
 Analytics Projects- Tableau
 
  Seattle Airbnb Project - Project Overview
+ 
 The goal of this project was to analyze Seattle's Airbnb market in order to help a client determine the best location for starting a new Airbnb business. The analysis focused on several factors, including competition, average price charged per bedroom, zip code, property type, and seasonal revenue trends.
 
 Airbnb, founded in 2008, is a global online marketplace for lodging, primarily homestays for vacation rentals and tourism activities. The company connects hosts offering short-term lodging with guests, allowing for flexible, often more affordable accommodations compared to traditional hotels.
